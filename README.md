@@ -9,3 +9,7 @@ Created a Calucator which splits bill among given number of people.
 
 #Day-3
 Created an Treasure Iland project
+
+#Day-4
+Topic- Random Function
+Project- Rock Paper Scissors
