@@ -13,3 +13,5 @@ Created an Treasure Iland project
 #Day-4
 Topic- Random Function
 Project- Rock Paper Scissors
+#Day-5
+For loop- Creating s
