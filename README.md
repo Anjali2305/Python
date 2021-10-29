@@ -15,3 +15,6 @@ Topic- Random Function
 Project- Rock Paper Scissors
 #Day-5
 For loop- Creating s
+#Day-6
+Challenge
+https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json
