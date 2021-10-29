@@ -15,7 +15,7 @@ Topic- Random Function
 Project- Rock Paper Scissors
 
 #Day-5
-For loop- Creating s
+For loop- Creating strong Password Generator
 
 #Day-6
 Challenge
