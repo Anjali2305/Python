@@ -26,3 +26,9 @@ Challenge - Hangman Game
 
 #Day-8
 Caesar Cipher
+
+#Day-9
+Python Dictionaries
+
+#Day-10
+Functions with Outputs
