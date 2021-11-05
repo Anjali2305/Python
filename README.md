@@ -35,3 +35,6 @@ Functions with Outputs
 
 #Day-11
 Blackjack Capstone
+
+#Day-12
+Scope of Variables( Guess the number program)
