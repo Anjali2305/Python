@@ -38,3 +38,6 @@ Blackjack Capstone
 
 #Day-12
 Scope of Variables( Guess the number program)
+
+#Day-13
+Debugging
