@@ -47,3 +47,6 @@ Higher Lower Game
 
 ## Day -15
 Virtual Coffee Machine
+
+## Day-16
+OOP-Modified Virtual Coffee Machine
