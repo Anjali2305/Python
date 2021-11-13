@@ -62,3 +62,6 @@ Turtle race project
 
 ## Day -20
 Snake game Part-1 (Nokia)
+
+## Day-21
+Complete Snake game 
