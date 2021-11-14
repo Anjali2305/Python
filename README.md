@@ -66,5 +66,5 @@ Snake game Part-1 (Nokia)
 ## Day-21
 Complete Snake game 
 
-##Day-22
+## Day-22
 Pong Game
