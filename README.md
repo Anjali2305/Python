@@ -71,3 +71,6 @@ Pong Game
 
 ## Day-23
 Turtle cross
+
+## Day-24
+Read and write in text files
