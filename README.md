@@ -89,3 +89,6 @@ Pomodoro GUI Application
 
 ## Day-29
 Password manager
+
+## Day-30
+Password manager Json Upgrade
