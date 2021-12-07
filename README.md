@@ -101,3 +101,6 @@ Date-time module
 
 ## Day-33
 API- Kanye api, ISS API
+
+## Day-34
+Classes , Objects and Constructor - Quiz Game using APIs 
