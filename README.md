@@ -107,3 +107,6 @@ Classes , Objects and Constructor - Quiz Game using APIs
 
 ## Day-35
 Weather API
+
+## Day-36
+Stock News API
