@@ -113,3 +113,6 @@ Stock News API
 
 ## Day-37
 Habit Tracker , API- pixela
+
+## Day-38
+Exercise Tracking , API- Nutrition by Nutritionix
