@@ -125,3 +125,6 @@ Flight Club Part2
 
 ## Day-41
 Web Foundation- Intro to HTML
+
+## Day-42
+Web Foundation- HTML Tables
