@@ -128,3 +128,6 @@ Web Foundation- Intro to HTML
 
 ## Day-42
 Web Foundation- HTML Tables
+
+## Day-43
+Web Foundation- CSS
