@@ -134,3 +134,8 @@ Web Foundation- CSS
 
 ## Day-44
 Web Foundation : My website 
+
+## Day-45
+Web Scraping - Beautiful Soup
+- 100 Movies to watch
+-  Hacker News
