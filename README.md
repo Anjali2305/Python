@@ -139,3 +139,8 @@ Web Foundation : My website
 Web Scraping - Beautiful Soup
 - 100 Movies to watch
 -  Hacker News
+
+## Day-46
+Web Scraping - Beautiful Soup
+- Spotify
+- Billiboard The Hort 100
