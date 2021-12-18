@@ -1,6 +1,6 @@
 # Python
 In this repo, there are 100 python projects from small to big. This codes are practice codes of 100 Days of Code: They python Bootcamp by Angela Yu, Udemy.
-This is 100Days of journey of Learning Python
+This is 100 Days of journey of Learning Python
 
 ## Day-1
 I build a basic program which create Band Name for you using your city and your pet name
@@ -145,3 +145,7 @@ Web Scraping - Beautiful Soup
 Web Scraping - Beautiful Soup
 - Spotify
 - Billiboard The Hort 100
+
+## Day-47
+Web Scraping
+Amazon Price Tracker
