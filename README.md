@@ -1,4 +1,5 @@
 # Python
+In this repo, there are 100 python projects from small to big. This codes are practice codes of 100 Days of Code: They python Bootcamp by Angela Yu, Udemy.
 This is 100Days of journey of Learning Python
 
 ## Day-1
