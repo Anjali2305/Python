@@ -151,6 +151,6 @@ Web Scraping
 Amazon Price Tracker
 
 ## Day-48
-
+Selenium Webdriver Browser and Game playing bot
 
 ## Day-49
