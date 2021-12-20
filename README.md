@@ -154,3 +154,4 @@ Amazon Price Tracker
 Selenium Webdriver Browser and Game playing bot
 
 ## Day-49
+Automating job application on LinkedIn
