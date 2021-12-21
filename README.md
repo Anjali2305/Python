@@ -1,6 +1,7 @@
 # Python
 In this repo, there are 100 python projects from small to big. This codes are practice codes of 100 Days of Code: They python Bootcamp by Angela Yu, Udemy.
 This is 100 Days of journey of Learning Python
+# Kindly install all the module before running this on your device
 
 ## Day-1
 I build a basic program which create Band Name for you using your city and your pet name
@@ -136,22 +137,26 @@ Web Foundation- CSS
 ## Day-44
 Web Foundation : My website 
 
+## Web Scraping - Beautiful Soup
+
 ## Day-45
-Web Scraping - Beautiful Soup
 - 100 Movies to watch
 -  Hacker News
 
 ## Day-46
-Web Scraping - Beautiful Soup
 - Spotify
 - Billiboard The Hort 100
 
 ## Day-47
-Web Scraping
 Amazon Price Tracker
 
+## Selenium Webdriver
+
 ## Day-48
-Selenium Webdriver Browser and Game playing bot
+Browser and Game playing bot
 
 ## Day-49
 Automating job application on LinkedIn
+
+## Day-50
+Auto Swipe on Tinder
