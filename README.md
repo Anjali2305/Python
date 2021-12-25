@@ -156,7 +156,7 @@ Amazon Price Tracker
 Browser and Game playing bot
 
 ## Day-49
-Automating job application on LinkedIn
+Automating job application on LinkedIn by using Selenium WebDriver
 
 ## Day-50
 Auto Swipe on Tinder
